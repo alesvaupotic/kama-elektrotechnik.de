@@ -1,5 +1,5 @@
 ---
-title: KAMA Elektrotechnik GmbG
+title: KAMA Elektrotechnik GmbH
 subtitle: Elektrotechnik
 image: img/kama-elektrotechnik-logo.svg
 blurb:
