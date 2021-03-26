@@ -3,7 +3,7 @@ title: KAMA Elektrotechnik GmbH
 subtitle: Elektrotechnik
 image: img/kama-elektrotechnik-logo.svg
 blurb:
-  heading: Why use Kaldi?
+  heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
